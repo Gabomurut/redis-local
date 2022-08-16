@@ -9,7 +9,7 @@ package main
 import (
 	"github.com/go-resty/resty/v2"
 	"github.com/redisBotConfig/config"
-	"github.com/redisBotConfig/service"
+	"github.com/redisBotConfig/pkg/service"
 )
 
 // Injectors from wire.go:

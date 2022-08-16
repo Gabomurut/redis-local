@@ -8,7 +8,7 @@ import (
 	"github.com/google/wire"
 	"github.com/redisBotConfig/client"
 	"github.com/redisBotConfig/config"
-	"github.com/redisBotConfig/service"
+	"github.com/redisBotConfig/pkg/service"
 )
 
 func InitializeServer() config.ContainerService {

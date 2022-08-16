@@ -2,7 +2,7 @@ package config
 
 import (
 	"github.com/go-resty/resty/v2"
-	"github.com/redisBotConfig/service"
+	"github.com/redisBotConfig/pkg/service"
 )
 
 type ContainerService struct {
